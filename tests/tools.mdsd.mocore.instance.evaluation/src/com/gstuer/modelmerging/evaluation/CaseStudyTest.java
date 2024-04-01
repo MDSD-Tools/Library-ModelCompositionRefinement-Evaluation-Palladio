@@ -74,7 +74,7 @@ import com.gstuer.modelmerging.instance.pcm.utility.ElementFactory;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 public abstract class CaseStudyTest {
-    private static final boolean PRINT_INFOS = false;
+    private static final boolean PRINT_INFOS = true;
 
     @BeforeAll
     public void setupTest() throws IOException {
