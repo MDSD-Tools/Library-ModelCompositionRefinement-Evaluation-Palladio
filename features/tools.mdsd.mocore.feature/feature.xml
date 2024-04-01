@@ -11,6 +11,12 @@
          id="tools.mdsd.mocore.license"
          version="0.0.0"/>
 
+   <requires>
+      <import plugin="org.palladiosimulator.pcm"/>
+      <import plugin="org.palladiosimulator.pcm.resources"/>
+      <import plugin="org.palladiosimulator.generator.fluent"/>
+   </requires>
+
    <plugin
          id="tools.mdsd.mocore.framework"
          download-size="0"
@@ -23,4 +29,15 @@
          install-size="0"
          version="0.0.0"/>
 
+   <plugin
+         id="tools.mdsd.mocore.instance"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+   <plugin
+         id="tools.mdsd.mocore.instance.test"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
 </feature>
