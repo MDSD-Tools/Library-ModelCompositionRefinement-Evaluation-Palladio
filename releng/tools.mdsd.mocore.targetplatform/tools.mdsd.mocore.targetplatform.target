@@ -2,7 +2,15 @@
 <?pde version="3.8"?>
 <target name="tools.mdsd.mocore Target Platform" sequenceNumber="1">
    <locations>
-	   <location includeAllPlatforms="false" includeConfigurePhase="true"
+	    <location includeAllPlatforms="false" includeConfigurePhase="true"
+			includeMode="planner" includeSource="false" refresh="true"
+			type="InstallableUnit">
+			<unit id="tools.mdsd.mocore.framework" version="0.0.0" />
+			<unit id="tools.mdsd.mocore.framework.test" version="0.0.0" />
+			<repository
+				location="https://updatesite.mdsd.tools/library-modelcompositionrefinement/nightly/" />
+		</location>
+		<location includeAllPlatforms="false" includeConfigurePhase="true"
 			includeMode="planner" includeSource="false" refresh="true"
 			type="InstallableUnit">
 			<unit id="de.uka.ipd.sdq.identifier.feature.feature.group"
