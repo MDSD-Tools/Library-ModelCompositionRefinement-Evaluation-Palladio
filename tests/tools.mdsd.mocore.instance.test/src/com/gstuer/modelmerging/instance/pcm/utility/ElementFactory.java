@@ -15,7 +15,7 @@ import com.gstuer.modelmerging.instance.pcm.surrogate.element.Interface;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.LinkResourceSpecification;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.ServiceEffectSpecification;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Signature;
-import com.gstuer.modelmerging.utility.IdentifierGenerator;
+import tools.mdsd.mocore.utility.IdentifierGenerator;
 
 public final class ElementFactory {
     private ElementFactory() {

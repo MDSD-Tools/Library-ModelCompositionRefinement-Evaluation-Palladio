@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-import com.gstuer.modelmerging.framework.processor.RelationProcessor;
+import tools.mdsd.mocore.framework.processor.RelationProcessor;
 import com.gstuer.modelmerging.instance.pcm.surrogate.PcmSurrogate;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Component;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Deployment;

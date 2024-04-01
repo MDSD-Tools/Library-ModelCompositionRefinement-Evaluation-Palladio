@@ -2,7 +2,7 @@ package com.gstuer.modelmerging.instance.pcm.surrogate.element;
 
 import org.palladiosimulator.pcm.seff.ResourceDemandingSEFF;
 
-import com.gstuer.modelmerging.framework.surrogate.ElementTest;
+import tools.mdsd.mocore.framework.surrogate.ElementTest;
 import com.gstuer.modelmerging.instance.pcm.utility.ElementFactory;
 
 public class ServiceEffectSpecificationTest

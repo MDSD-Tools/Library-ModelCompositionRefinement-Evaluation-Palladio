@@ -2,7 +2,7 @@ package com.gstuer.modelmerging.instance.pcm.surrogate.element;
 
 import java.util.Objects;
 
-import com.gstuer.modelmerging.framework.surrogate.Element;
+import tools.mdsd.mocore.framework.surrogate.Element;
 
 import de.uka.ipd.sdq.identifier.Identifier;
 

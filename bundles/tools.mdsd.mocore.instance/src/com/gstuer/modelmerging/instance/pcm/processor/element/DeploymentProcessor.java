@@ -1,6 +1,6 @@
 package com.gstuer.modelmerging.instance.pcm.processor.element;
 
-import com.gstuer.modelmerging.framework.processor.Processor;
+import tools.mdsd.mocore.framework.processor.Processor;
 import com.gstuer.modelmerging.instance.pcm.surrogate.PcmSurrogate;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Deployment;
 

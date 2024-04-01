@@ -3,7 +3,7 @@ package com.gstuer.modelmerging.instance.pcm.processor.relation;
 import java.util.List;
 import java.util.Objects;
 
-import com.gstuer.modelmerging.framework.processor.RelationProcessor;
+import tools.mdsd.mocore.framework.processor.RelationProcessor;
 import com.gstuer.modelmerging.instance.pcm.surrogate.PcmSurrogate;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.LinkResourceSpecification;
 import com.gstuer.modelmerging.instance.pcm.surrogate.relation.DeploymentDeploymentRelation;

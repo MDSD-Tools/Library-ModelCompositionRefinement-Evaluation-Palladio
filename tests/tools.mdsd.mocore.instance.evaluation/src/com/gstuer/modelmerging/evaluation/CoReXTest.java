@@ -20,7 +20,7 @@ import org.palladiosimulator.pcm.resourceenvironment.LinkingResource;
 import org.palladiosimulator.pcm.resourceenvironment.ResourceContainer;
 import org.palladiosimulator.pcm.resourceenvironment.ResourceEnvironment;
 
-import com.gstuer.modelmerging.framework.discovery.Discoverer;
+import tools.mdsd.mocore.framework.discovery.Discoverer;
 import com.gstuer.modelmerging.instance.pcm.orchestration.PcmOrchestrator;
 import com.gstuer.modelmerging.instance.pcm.surrogate.PcmSurrogate;
 import com.gstuer.modelmerging.instance.pcm.transformation.AllocationTransformer;

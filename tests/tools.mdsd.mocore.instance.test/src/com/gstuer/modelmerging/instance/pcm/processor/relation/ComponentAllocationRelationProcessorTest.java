@@ -1,6 +1,6 @@
 package com.gstuer.modelmerging.instance.pcm.processor.relation;
 
-import com.gstuer.modelmerging.framework.processor.RelationProcessorTest;
+import tools.mdsd.mocore.framework.processor.RelationProcessorTest;
 import com.gstuer.modelmerging.instance.pcm.surrogate.PcmSurrogate;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Component;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Deployment;

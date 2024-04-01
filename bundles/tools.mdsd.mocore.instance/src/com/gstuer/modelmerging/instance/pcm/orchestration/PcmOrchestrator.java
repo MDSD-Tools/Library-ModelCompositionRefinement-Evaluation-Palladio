@@ -1,6 +1,6 @@
 package com.gstuer.modelmerging.instance.pcm.orchestration;
 
-import com.gstuer.modelmerging.framework.orchestration.Orchestrator;
+import tools.mdsd.mocore.framework.orchestration.Orchestrator;
 import com.gstuer.modelmerging.instance.pcm.processor.element.ComponentProcessor;
 import com.gstuer.modelmerging.instance.pcm.processor.element.DeploymentProcessor;
 import com.gstuer.modelmerging.instance.pcm.processor.element.InterfaceProcessor;

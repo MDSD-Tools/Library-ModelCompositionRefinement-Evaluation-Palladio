@@ -14,7 +14,7 @@ import org.palladiosimulator.pcm.repository.OperationSignature;
 import org.palladiosimulator.pcm.repository.Repository;
 import org.palladiosimulator.pcm.seff.ServiceEffectSpecification;
 
-import com.gstuer.modelmerging.framework.transformation.Transformer;
+import tools.mdsd.mocore.framework.transformation.Transformer;
 import com.gstuer.modelmerging.instance.pcm.surrogate.PcmSurrogate;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Component;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Interface;

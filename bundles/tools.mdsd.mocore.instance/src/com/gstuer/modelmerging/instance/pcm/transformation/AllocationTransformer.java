@@ -9,7 +9,7 @@ import org.palladiosimulator.pcm.allocation.Allocation;
 import org.palladiosimulator.pcm.resourceenvironment.ResourceEnvironment;
 import org.palladiosimulator.pcm.system.System;
 
-import com.gstuer.modelmerging.framework.transformation.Transformer;
+import tools.mdsd.mocore.framework.transformation.Transformer;
 import com.gstuer.modelmerging.instance.pcm.surrogate.PcmSurrogate;
 import com.gstuer.modelmerging.instance.pcm.surrogate.relation.ComponentAllocationRelation;
 

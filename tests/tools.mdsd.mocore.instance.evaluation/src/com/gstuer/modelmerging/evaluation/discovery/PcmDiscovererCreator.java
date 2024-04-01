@@ -26,7 +26,7 @@ import org.palladiosimulator.pcm.resourceenvironment.ResourceEnvironment;
 import org.palladiosimulator.pcm.seff.ResourceDemandingSEFF;
 import org.palladiosimulator.pcm.system.System;
 
-import com.gstuer.modelmerging.framework.discovery.Discoverer;
+import tools.mdsd.mocore.framework.discovery.Discoverer;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Component;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Deployment;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Interface;
@@ -42,7 +42,7 @@ import com.gstuer.modelmerging.instance.pcm.surrogate.relation.InterfaceRequirem
 import com.gstuer.modelmerging.instance.pcm.surrogate.relation.LinkResourceSpecificationRelation;
 import com.gstuer.modelmerging.instance.pcm.surrogate.relation.ServiceEffectSpecificationRelation;
 import com.gstuer.modelmerging.instance.pcm.surrogate.relation.SignatureProvisionRelation;
-import com.gstuer.modelmerging.utility.IdentifierGenerator;
+import tools.mdsd.mocore.utility.IdentifierGenerator;
 
 public class PcmDiscovererCreator {
     private final System system;

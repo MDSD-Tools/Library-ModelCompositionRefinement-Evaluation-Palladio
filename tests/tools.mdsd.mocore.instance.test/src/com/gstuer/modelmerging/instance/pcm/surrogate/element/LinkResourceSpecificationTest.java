@@ -2,7 +2,7 @@ package com.gstuer.modelmerging.instance.pcm.surrogate.element;
 
 import org.palladiosimulator.pcm.resourceenvironment.CommunicationLinkResourceSpecification;
 
-import com.gstuer.modelmerging.framework.surrogate.ElementTest;
+import tools.mdsd.mocore.framework.surrogate.ElementTest;
 
 public class LinkResourceSpecificationTest
         extends ElementTest<LinkResourceSpecification, CommunicationLinkResourceSpecification> {

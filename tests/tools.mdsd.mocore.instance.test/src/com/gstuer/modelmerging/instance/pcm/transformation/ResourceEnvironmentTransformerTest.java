@@ -9,7 +9,7 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 import org.palladiosimulator.pcm.resourceenvironment.ResourceEnvironment;
 
-import com.gstuer.modelmerging.framework.transformation.TransformerTest;
+import tools.mdsd.mocore.framework.transformation.TransformerTest;
 import com.gstuer.modelmerging.instance.pcm.surrogate.PcmSurrogate;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Deployment;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.LinkResourceSpecification;

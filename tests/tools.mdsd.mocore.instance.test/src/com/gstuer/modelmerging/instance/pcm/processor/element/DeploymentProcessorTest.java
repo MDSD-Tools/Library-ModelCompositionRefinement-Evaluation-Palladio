@@ -5,7 +5,7 @@ import static org.junit.Assert.assertTrue;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.condition.DisabledIf;
 
-import com.gstuer.modelmerging.framework.processor.ProcessorTest;
+import tools.mdsd.mocore.framework.processor.ProcessorTest;
 import com.gstuer.modelmerging.instance.pcm.surrogate.PcmSurrogate;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Deployment;
 

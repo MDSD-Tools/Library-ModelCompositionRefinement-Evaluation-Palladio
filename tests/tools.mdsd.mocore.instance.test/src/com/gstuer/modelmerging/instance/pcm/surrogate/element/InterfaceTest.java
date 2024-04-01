@@ -3,8 +3,8 @@ package com.gstuer.modelmerging.instance.pcm.surrogate.element;
 import org.palladiosimulator.generator.fluent.repository.factory.FluentRepositoryFactory;
 import org.palladiosimulator.pcm.repository.OperationInterface;
 
-import com.gstuer.modelmerging.framework.surrogate.ElementTest;
-import com.gstuer.modelmerging.utility.IdentifierGenerator;
+import tools.mdsd.mocore.framework.surrogate.ElementTest;
+import tools.mdsd.mocore.utility.IdentifierGenerator;
 
 public class InterfaceTest extends ElementTest<Interface, OperationInterface> {
     @Override

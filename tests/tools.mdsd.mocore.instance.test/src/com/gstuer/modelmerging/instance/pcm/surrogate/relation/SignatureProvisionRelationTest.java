@@ -1,6 +1,6 @@
 package com.gstuer.modelmerging.instance.pcm.surrogate.relation;
 
-import com.gstuer.modelmerging.framework.surrogate.RelationTest;
+import tools.mdsd.mocore.framework.surrogate.RelationTest;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Interface;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Signature;
 

@@ -13,7 +13,7 @@ import org.palladiosimulator.pcm.resourceenvironment.ResourceContainer;
 import org.palladiosimulator.pcm.resourceenvironment.ResourceEnvironment;
 
 import com.google.common.collect.HashMultimap;
-import com.gstuer.modelmerging.framework.transformation.Transformer;
+import tools.mdsd.mocore.framework.transformation.Transformer;
 import com.gstuer.modelmerging.instance.pcm.surrogate.PcmSurrogate;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Deployment;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.LinkResourceSpecification;

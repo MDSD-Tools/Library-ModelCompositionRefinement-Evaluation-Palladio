@@ -9,7 +9,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 import org.palladiosimulator.pcm.system.System;
 
-import com.gstuer.modelmerging.framework.transformation.TransformerTest;
+import tools.mdsd.mocore.framework.transformation.TransformerTest;
 import com.gstuer.modelmerging.instance.pcm.surrogate.PcmSurrogate;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Component;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Interface;

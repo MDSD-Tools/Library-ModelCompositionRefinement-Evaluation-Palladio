@@ -8,8 +8,8 @@ import java.util.Set;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.condition.DisabledIf;
 
-import com.gstuer.modelmerging.framework.processor.ProcessorTest;
-import com.gstuer.modelmerging.framework.surrogate.Replaceable;
+import tools.mdsd.mocore.framework.processor.ProcessorTest;
+import tools.mdsd.mocore.framework.surrogate.Replaceable;
 import com.gstuer.modelmerging.instance.pcm.surrogate.PcmSurrogate;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.ServiceEffectSpecification;
 

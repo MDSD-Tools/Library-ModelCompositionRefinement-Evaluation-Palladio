@@ -1,7 +1,7 @@
 package com.gstuer.modelmerging.instance.pcm.surrogate.relation;
 
-import com.gstuer.modelmerging.framework.surrogate.Relation;
-import com.gstuer.modelmerging.framework.surrogate.Replaceable;
+import tools.mdsd.mocore.framework.surrogate.Relation;
+import tools.mdsd.mocore.framework.surrogate.Replaceable;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Component;
 import com.gstuer.modelmerging.instance.pcm.surrogate.element.Interface;
 
